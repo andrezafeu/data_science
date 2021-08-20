@@ -9,11 +9,13 @@
 * [Google Trends](https://trends.google.com/trends/explore)
 * [US Government APIs](https://www.data.gov/developers/apis)
 * [22 APIs Every Data Scientist Should Know](https://www.springboard.com/library/data-science/top-apis-for-data-scientists/)
+* [All the Datasets You Need to Practice Data Science Skills and Make a Great Portfolio](https://towardsdatascience.com/all-the-datasets-you-need-to-practice-data-science-skills-and-make-a-great-portfolio-857a348883b5)
 
 ### Cheat Sheets
 * [Jupyter Shortcuts](https://treehouse-code-samples.s3.amazonaws.com/Python/jupyter-shortcuts.pdf)
 * [Pandas](http://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 * [NumPy / SciPy / Pandas Cheat Sheet](http://www.cheat-sheets.org/saved-copy/NumPy_SciPy_Pandas_Quandl_Cheat_Sheet.pdf)
+* [Python Regular Expressions](http://www.cheat-sheets.org/saved-copy/python-regular-expressions-cheat-sheet.20210604.pdf)
 * [Top Machine Learning Algorithms for Predictions](https://twitter.com/PrUkkera/status/1427501190737276953/photo/1)
 
 ### Data Analysis
@@ -42,3 +44,6 @@
 
 ### Projects
 * [215+ Machine Learning Projects Solved and Explained](https://medium.com/coders-camp/215-machine-learning-projects-solved-and-explained-7bd6fd478897)
+
+### Learn
+* [Kaggle Learn](https://www.kaggle.com/learn)
