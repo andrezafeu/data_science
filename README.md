@@ -33,7 +33,8 @@
 * [Intro to PyTorch: Training your first neural network using PyTorch](https://www.pyimagesearch.com/2021/07/12/intro-to-pytorch-training-your-first-neural-network-using-pytorch/)
 
 ### Machine Learning
-* [Introduction to Machine Learning for Coders!](https://course18.fast.ai/ml) - 24 hours of lessons based on lessons recorded at the University of San Francisco for the Masters of Science in Data Science program.
+* [Introduction to Machine Learning for Coders!](https://course18.fast.ai/ml) - 24 hours of lessons recorded at the University of San Francisco for the Masters of Science in Data Science program.
+* [Understanding Confusion Matrix](https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62) - Understanding TP, TN, FP, FN, Recall, Precision, Accuracy, F-measure.
 
 ### Regressions
 * [Multinomial Logistic Regression With Python](https://machinelearningmastery.com/multinomial-logistic-regression-with-python/)
