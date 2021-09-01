@@ -48,3 +48,9 @@
 
 ### Learn
 * [Kaggle Learn](https://www.kaggle.com/learn)
+
+### Interview Preparation
+* [Data Science Interview Questions for Beginners](https://www.freecodecamp.org/news/23-common-data-science-interview-questions-for-beginners/)
+  #### Product Data Scientist roles
+  * [4 Steps to Defining GREAT Metrics for ANY Product](https://hackernoon.com/metrics-game-framework-5e3dce1be8ac)
+  * [AARRR Framework- Metrics That Let Your StartUp Sound Like A Pirate Ship](https://ms-mbalke.medium.com/aarrr-framework-metrics-that-let-your-startup-sound-like-a-pirate-ship-e91d4082994b)
