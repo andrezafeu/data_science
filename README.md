@@ -17,6 +17,7 @@
 * [NumPy / SciPy / Pandas Cheat Sheet](http://www.cheat-sheets.org/saved-copy/NumPy_SciPy_Pandas_Quandl_Cheat_Sheet.pdf)
 * [Python Regular Expressions](http://www.cheat-sheets.org/saved-copy/python-regular-expressions-cheat-sheet.20210604.pdf)
 * [Top Machine Learning Algorithms for Predictions](https://twitter.com/PrUkkera/status/1427501190737276953/photo/1)
+* [Machine Learning Algorithm Cheat Sheet](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet)
 
 ### Data Analysis
 * [Python for Data Analysis](https://www.programmer-books.com/wp-content/uploads/2019/04/Python-for-Data-Analysis-2nd-Edition.pdf)
@@ -35,6 +36,10 @@
 ### Machine Learning
 * [Introduction to Machine Learning for Coders!](https://course18.fast.ai/ml) - 24 hours of lessons recorded at the University of San Francisco for the Masters of Science in Data Science program.
 * [Understanding Confusion Matrix](https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62) - Understanding TP, TN, FP, FN, Recall, Precision, Accuracy, F-measure.
+* [Top 10 Machine Learning Algorithms For Beginners](https://blog.quantinsti.com/top-10-machine-learning-algorithms-beginners/?source=google&medium=cpc&campaign=dsaus&gclid=Cj0KCQjwpreJBhDvARIsAF1_BU1wD1ka4-IPPiLKXc9I2RIG_CrBPfhs4RRGRtFuo3aG39exhfYy460aAiF0EALw_wcB)
+* [Papers with Code](https://paperswithcode.com/) - Machine Learning papers, code and evaluation tables.
+* [Lazy Predict](https://github.com/shankarpandala/lazypredict)
+
 
 ### Regressions
 * [Multinomial Logistic Regression With Python](https://machinelearningmastery.com/multinomial-logistic-regression-with-python/)
